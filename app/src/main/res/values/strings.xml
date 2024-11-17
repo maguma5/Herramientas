@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Herramientas</string>
+    <string name="Operario">OPERARIO:</string>
+    <string name="fecha">HORA/FECHA:</string>
+    <string name="concepto">HERRAMIENTA:</string>
+    <string name="cantidad">ESTADO:</string>
+    <string name="apunte">APUNTE</string>
+</resources>

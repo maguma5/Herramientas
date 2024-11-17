@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301481930799",
+    "project_id": "herramientas-cf7a1",
+    "storage_bucket": "herramientas-cf7a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301481930799:android:4fc2a55acff2328efe16da",
+        "android_client_info": {
+          "package_name": "com.Herramientas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Et1OvOrBKLc2ZbhUpDS7pAvkjDzbp7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301481930799:android:d6bf3fc60b89b944fe16da",
+        "android_client_info": {
+          "package_name": "com.herramientas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Et1OvOrBKLc2ZbhUpDS7pAvkjDzbp7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSpinnerText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="CustomSpinner" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@drawable/spinner_icon_herramientas</item>
+    </style>
+    <style name="CustomSpinnerOperario" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@drawable/spinner_icon_operarios</item>
+    </style>
+    <style name="CustomSpinnerEstado" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@drawable/spinner_icon_estados</item>
+    </style>
+
+</resources>
+
